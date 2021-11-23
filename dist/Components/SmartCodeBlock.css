@@ -1,0 +1,15 @@
+.CodeBlock {
+  position: relative;
+}
+
+.CopyButton {
+  position: absolute;
+  right: 8pt;
+  top: 8pt;
+  color: white;
+  font-size: 20pt;
+}
+
+.CopyButton:hover {
+  cursor: pointer;
+}
